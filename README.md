@@ -1,2 +1,5 @@
-# conference-bio
-Conference bio logo (garantie sans ORM)
+# Logo "Conférence Bio - garantie sans ORM"
+
+A utiliser librement dans vos présentations !
+
+Merci @ASaltedPeanuts pour la mise en forme
